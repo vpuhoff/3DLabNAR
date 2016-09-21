@@ -17,10 +17,10 @@ public class CreateMap : MonoBehaviour {
         {
             for (float  y = ystart ; y < yend ; y+= cellsize)
             {
-                if (Random.RandomRange(0,100)>60)
+                if (Random.RandomRange(0,100)>70)
                 {
                     var cell = Instantiate(cube);
-                    cell.position = new Vector3(x, 2, y);
+                    cell.position = new Vector3(x, 0.3f, y);
                 }
             }
         }

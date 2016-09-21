@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DLabNAR.CSharp.Plugins", "3DLabNAR.CSharp.Plugins.csproj", "{748B2714-6725-6BE4-FC39-AB564E30C2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DLabNAR.CSharp", "3DLabNAR.CSharp.csproj", "{6419808F-2FA6-0F09-C67E-C44A48851697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DLabNAR.CSharp.Editor", "3DLabNAR.CSharp.Editor.csproj", "{3679898B-C527-41D4-1AE2-68FA21A1B978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748B2714-6725-6BE4-FC39-AB564E30C2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748B2714-6725-6BE4-FC39-AB564E30C2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748B2714-6725-6BE4-FC39-AB564E30C2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748B2714-6725-6BE4-FC39-AB564E30C2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6419808F-2FA6-0F09-C67E-C44A48851697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6419808F-2FA6-0F09-C67E-C44A48851697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6419808F-2FA6-0F09-C67E-C44A48851697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6419808F-2FA6-0F09-C67E-C44A48851697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3679898B-C527-41D4-1AE2-68FA21A1B978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3679898B-C527-41D4-1AE2-68FA21A1B978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3679898B-C527-41D4-1AE2-68FA21A1B978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3679898B-C527-41D4-1AE2-68FA21A1B978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
